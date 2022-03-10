@@ -1,0 +1,122 @@
+body{
+    font-family:monospace;
+
+}
+
+.navbar{
+    background-color: #FCBB6D;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#content{
+    background: rgb(104,93,121);
+    background: linear-gradient(50deg, rgba(104,93,121,1) 0%, rgba(216,115,127,1) 96%);
+height: 900px;
+}
+
+
+
+.container{
+    padding-top:100px;
+}
+.container h1{
+    padding-top:20px;
+}
+.container p{
+    font-size:20px;
+}
+.container img{
+    width:200px;
+    height: 300px;
+    
+}
+
+#profile{
+    height: 900px;
+    background-color: #D8737F;
+    font-size: 25px;
+    
+}
+
+.content h3{
+    padding-top:200px;
+    color:black;
+    font-size: 30px;
+    
+}
+
+.content p{
+    color:black;
+}
+
+.content table{
+table-hover:grey;
+width:1000px;
+table-bordered:white;
+margin-left: auto;
+margin-right: auto;
+}
+
+#skill{
+    height: 900px;
+    background-color: #AB6C82;
+}
+
+#skill h1{
+    padding-top:100px;
+}
+
+.row{
+    margin-left: auto; 
+    margin-right: auto;
+    padding:20px;
+    width:1000px;
+    
+}
+
+.card h4{
+    color:black
+}
+
+.card p{
+    color:black;
+}
+
+.card img{
+    padding:15px;
+}
+
+#contact{
+    height: 700px;
+    background-color:#685D79;
+    
+}
+
+form input{
+    height:100px;
+}
+
+.container-py4 h3{
+    padding-top:70px;
+}
+
+.mb-3 input{
+    width:500px;
+}
+
+.mb-4 input{
+    width:500px; height:300px;
+}
+
+.container-py4 button {
+    background-color:rgb(139, 159, 189);
+    text-align: center;
+    
+}
+
+footer{
+    background-color: #475C74;
+}
+
+
